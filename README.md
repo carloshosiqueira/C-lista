@@ -6,6 +6,6 @@
 + Exercicios com int
 + Exercicios com char
 
-|Linguagem|Programa|
-|--|--|
-|C|DevC++|
+|Linguagem|Programa|Versão|
+|--|--|--|
+|C|DevC++|5.11|
